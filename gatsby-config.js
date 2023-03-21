@@ -31,6 +31,7 @@ module.exports = {
         },
     },
     `gatsby-transformer-remark`,
+    `gatsby-plugin-netlify`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
